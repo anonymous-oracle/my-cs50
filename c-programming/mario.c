@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+
+    // PRINTING SQUARE BRICKS FOR A MARIO GAME WALL
 int main(void){
     int n=0;
     printf("Enter a positive number: ");
